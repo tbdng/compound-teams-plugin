@@ -1,0 +1,18 @@
+{
+  "name": "compound-teams",
+  "description": "Compound engineering with Agent Teams + Ralph Loops. Spawn coordinated teams that iterate until tests pass, then capture learnings for the next cycle. Includes 6 commands and 2 skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tbdng",
+    "url": "https://github.com/tbdng"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agent-teams",
+    "ralph-loop",
+    "compound-engineering",
+    "multi-agent",
+    "workflow",
+    "code-quality"
+  ]
+}
