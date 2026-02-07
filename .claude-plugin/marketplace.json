@@ -11,6 +11,7 @@
   "plugins": [
     {
       "name": "compound-teams",
+      "source": "./plugins/compound-teams",
       "description": "Compound engineering workflow using Agent Teams with embedded Ralph Loops. Commands: /ct:setup (safe install into existing projects), /ct:plan (research + plan), /ct:build (Agent Team execution with Ralph loops), /ct:review (multi-lens code review team), /ct:quick (fast builds), /ct:compound (extract learnings). Skills: ralph-loop (persistent retry-until-green pattern), compound-learning (CLAUDE.md knowledge management).",
       "version": "1.0.0",
       "author": {
